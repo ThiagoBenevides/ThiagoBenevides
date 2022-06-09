@@ -2,8 +2,8 @@
 
 
 - 🔭 Trabalhando com: Data science
-- 🌱 Aprendendo: Django, flask 
-- 😄 Ele/dele
+- 🌱 Aprendendo: GraphQL, Flask e Django 
+- 😄 Pronome de tratamento: Ele/dele
 <div align="left">
   <a href="https://github.com/ThiagoBenevides">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoBenevides&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
